@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Product</title>
+</head>
+<body>
+
+    <h1>Add A Product</h1>
+
+<!-- creating new products -->
+<!-- method override : method = post -->
+    <form action="/products" method="POST">
+        <label for="name">Product Name</label>
+        <!-- product name -->
+        <input type="text" name="name" id="name" placeholder="product name">
+        <label for="price">Price (Unit)</label>
+        <!-- product price -->
+        <input type="number" id="price" name="price" placeholder="price">
+        <label for="category">Select Category</label>
+        
+        <!-- to choose one option from categories -->
+        <!-- to set every single category value with name -->
+        <select name="category" id="category">
+            <% for(let category of categories){ %>
+                <option value="<%=category%>"><%=category%></option>
+                <% } %>
+        
+        </select>
+        
+        <button>Submit</button>
+    </form>
+
+    
+    <a href="/products">Cansel And Back To All Products</a>
+</body>
+</html>

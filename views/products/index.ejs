@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Products</title>
+</head>
+<body>
+    <!-- category : 'All' -->
+    <h1><%= category %>  Products</h1>
+    <ul>
+        <!-- to show every singl product  -->
+        <% for(let product of products) { %>
+            <!-- show details from products by using productID to see him   -->
+        <li><a href="/products/<%=product._id%>"><%= product.name %></a> </li>
+        <% }%>
+    <!-- adding products -->
+        <a href="/products/new">Add product</a>
+    </ul>
+
+    <!-- hide category name from page if back to any page -->
+    <%if(category !== 'All') {%>
+        <a href="/products">All Products</a>
+        <% } %>
+    
+
+</body>
+</html>
