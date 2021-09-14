@@ -11,7 +11,7 @@
 
 ## how can you run the project 
 
-*  go to path place and open terminal ,use this command
+*  _go to path place and open terminal ,use this command.._
 
 *   <h4>nodemon index.js</h4>
 
@@ -25,14 +25,15 @@
 
 <img src="https://user-images.githubusercontent.com/85587699/133321814-ed4fa395-cd31-49ad-872d-7b65e7aba09a.png" width="250" height="150">
 
-* 1 and here you have a four choise you can `click` on fruit and you show all products that's same type ***..notes (same thing to all category)***
-* 2 or you can edit product and you go to edit page then you can edit you product and `submit it`..
-* 3 back to you go to all products
-* 4 click on `delete` button to `delete` your product :(
+* 1 _and here you have a four choise you can `click` on fruit and you show all products that's same type ***..notes (same thing to all category)***_
+* 2 _or you can edit product and you go to edit page then you can edit you product and `submit it`.._
+* 3 _back to you go to all products_
+* 4 _click on `delete` button to `delete` your product :(_
 
 <img src="https://user-images.githubusercontent.com/85587699/133321888-5f845a13-21c6-4581-abe9-035cf3a8c199.png" width="250" height="150">
 
-*  you have a tow choise here first one : you can add a new product second one you back to all products
+* _you have a tow choise here first one : you can add a new product second one you back to all products_
 
 <img src="https://user-images.githubusercontent.com/85587699/133321928-5e6693e1-502f-47ec-9a8a-fc7f5faaaa01.png" width="250" height="150">
 
+### this is project created by [mahmoud samy :)](https://github.com/mahmoodsamy)
