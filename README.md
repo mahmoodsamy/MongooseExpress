@@ -11,6 +11,28 @@
 
 ## how can you run the project 
 
-* go to path place and open terminal ,use this command
+* 1 go to path place and open terminal ,use this command
 
- 1. nodemon index.js
+  nodemon index.js
+
+<img src="https://user-images.githubusercontent.com/85587699/133319933-568f0064-1c00-413d-abb5-7820c72982ca.png" width="300" height="150">
+
+* 2 then open the browser and write....<h4>localhost:3000/products</h4>
+
+<img src="https://user-images.githubusercontent.com/85587699/133321419-7d777e96-d3d8-4304-8707-0fb6134fff4b.png" width="250" height="150">
+ 
+* 3 write the type of product name , price and select category then submit :) or you can ~~cancel~~ it :(
+
+<img src="https://user-images.githubusercontent.com/85587699/133321814-ed4fa395-cd31-49ad-872d-7b65e7aba09a.png" width="250" height="150">
+
+* 4 and here you have a four choise you can `click` on fruit and you show all products that's same type ***..notes (same thing to all category)***
+* 5 or you can edit product and you go to edit page then you can edit you product and `submit it`..
+* 6 back to you go to all products
+* 7 click a ~~delete~~ button to ~~delete~~ your product :(
+
+<img src="https://user-images.githubusercontent.com/85587699/133321888-5f845a13-21c6-4581-abe9-035cf3a8c199.png" width="250" height="150">
+
+* 8 you have a tow choise here first one : you can add a new product second one you back to all products
+
+<img src="https://user-images.githubusercontent.com/85587699/133321928-5e6693e1-502f-47ec-9a8a-fc7f5faaaa01.png" width="250" height="150">
+
