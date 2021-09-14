@@ -13,11 +13,11 @@
 
 * 1 go to path place and open terminal ,use this command
 
-  nodemon index.js
+  <h3>nodemon index.js</h3>
 
 <img src="https://user-images.githubusercontent.com/85587699/133319933-568f0064-1c00-413d-abb5-7820c72982ca.png" width="300" height="150">
 
-* 2 then open the browser and write....<h4>localhost:3000/products</h4>
+<h4>* 2 then open the browser and write....</4><h3>localhost:3000/products</h3>
 
 <img src="https://user-images.githubusercontent.com/85587699/133321419-7d777e96-d3d8-4304-8707-0fb6134fff4b.png" width="250" height="150">
  
