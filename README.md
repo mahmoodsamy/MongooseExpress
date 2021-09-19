@@ -2,6 +2,10 @@
 
 ***this project created by using frameWork `Express` `nodeJS` and connecting it with the `mongodb`***
 
+## requires 
+### `express` , `EJS` , `mongoose`
+
+
 ## What does this project do..
 * adding some products like a fruits and vegetable and dairy
 
