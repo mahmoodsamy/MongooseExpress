@@ -2,7 +2,7 @@
 
 ***this project created by using frameWork `Express` `nodeJS` and connecting it with the `mongodb`***
 
-## requires 
+## FrameWorks 
 ### `express` , `EJS` , `mongoose`
 
 
